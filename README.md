@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a recent graduate from IADT with an honors degree in Creatvie Computing(BSC) this is a portflio of all my work created within the last 8 years! These range from creating games in the Blender game engine(when that was a thing) -  to the Unity game engine and were coded using mainly Python and C#.  
 <!--
 **Smashdogz/Smashdogz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
